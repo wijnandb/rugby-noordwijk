@@ -49,18 +49,18 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Nederlands
+# Spanish
 # --------------
-nl: &DEFAULT_NL
-  page                       : "Pagina"
-  pagination_previous        : "Vorige"
-  pagination_next            : "Volgende"
-  breadcrumb_home_label      : "Home"
+es: &DEFAULT_ES
+  page                       : "Página"
+  pagination_previous        : "Anterior"
+  pagination_next            : "Siguiente"
+  breadcrumb_home_label      : "Inicio"
   breadcrumb_separator       : "/"
   menu_label                 :
-  toc_label                  : "Inhoud"
+  toc_label                  : "Contenidos"
   ext_link_label             : "Enlace"
-  less_than                  : "minder dan"
+  less_than                  : "menos de"
   minute_read                : "minuto de lectura"
   share_on_label             : "Compartir"
   meta_label                 :
@@ -89,10 +89,10 @@ nl: &DEFAULT_NL
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
-nl-NL:
-  <<: *DEFAULT_NL
-nl-BE:
-  <<: *DEFAULT_NL
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES
 
 # French
 # -----------------
