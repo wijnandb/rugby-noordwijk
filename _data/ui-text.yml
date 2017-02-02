@@ -52,15 +52,15 @@ en-AU:
 # Nederlands
 # --------------
 nl: &DEFAULT_NL
-  page                       : "Página"
-  pagination_previous        : "Anterior"
-  pagination_next            : "Siguiente"
-  breadcrumb_home_label      : "Inicio"
+  page                       : "Pagina"
+  pagination_previous        : "Vorige"
+  pagination_next            : "Volgende"
+  breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 :
-  toc_label                  : "Contenidos"
+  toc_label                  : "Inhoud"
   ext_link_label             : "Enlace"
-  less_than                  : "menos de"
+  less_than                  : "minder dan"
   minute_read                : "minuto de lectura"
   share_on_label             : "Compartir"
   meta_label                 :
