@@ -13,18 +13,3 @@ header:
 
 <p>Nog niet zeker of rugby wat voor jou is? Doe mee en ontdek het zelf!</p>
 
-<div class="countdown">
-  Hoe lang nog voor we van start gaan?
-  <span id="clock"></span>
-</div>
-
-<script>
-$('#clock').countdown('2017/03/12 10:30:00', function(event) {
-  var $this = $(this).html(event.strftime(''
-    + '<span>%w</span> weken '
-    + '<span>%d</span> dagen '
-    + '<span>%H</span> uur '
-    + '<span>%M</span> min '
-    + '<span>%S</span> sec'));
-});
-</script>
