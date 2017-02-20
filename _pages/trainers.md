@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: "/assets/images/team.jpg"
+  image: "/assets/images/chasing.jpg"
 permalink: /trainers/
 ---
 
@@ -11,7 +11,9 @@ We hebben het geluk dat we direct al kunnen beschikken over twee top-trainers, d
 
 ## Sven Loos
 
-Sven is als geboren Amsterdammer bij het hoofdstedelijke AAC begonnen met rugbyen toen hij 9 was. Al op 21-jarige leeftijd haalde hij het diploma Rugby Oefenmeester A, kort daarop gevolgd door het behalen van Oefenmeester B. Na een verblijf in het buitenland, vestigde Sven zich in 2001 in Noordwijk en ging als jeugdcoach bij de Haagsche Rugbyclub aan de slag. <img src="/assets/images/sven-veld.jpg" width="200">
+Sven is als geboren Amsterdammer bij het hoofdstedelijke AAC begonnen met rugbyen toen hij 9 was. Al op 21-jarige leeftijd haalde hij het diploma Rugby Oefenmeester A, kort daarop gevolgd door het behalen van Oefenmeester B. Na een verblijf in het buitenland, vestigde Sven zich in 2001 in Noordwijk en ging als jeugdcoach bij de Haagsche Rugbyclub aan de slag. 
+
+<img src="/assets/images/sven-veld.jpg" width="200">
 
 Daarnaast was hij actief als coach voor diverse nationale jeugdselecties, waarmee hij meerdere eindtoernooien meemaakte. Zo begeleidde hij als hoofdcoach bijvoorbeeld Nederland onder 18 op het Europees Kampioenschap in Frankrijk.
 
