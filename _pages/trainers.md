@@ -3,6 +3,7 @@ layout: single
 author_profile: false
 header:
   image: "/assets/images/team.jpg"
+permalink: /trainers/
 ---
 
 # Trainers
@@ -10,7 +11,7 @@ We hebben het geluk dat we direct al kunnen beschikken over twee top-trainers, d
 
 ## Sven Loos
 
-Sven is als geboren Amsterdammer bij het hoofdstedelijke AAC begonnen met rugbyen toen hij 9 was. Al op 21-jarige leeftijd haalde hij het diploma Rugby Oefenmeester A, kort daarop gevolgd door het behalen van Oefenmeester B. Na een verblijf in het buitenland, vestigde Sven zich in 2001 in Noordwijk en ging als jeugdcoach bij de Haagsche Rugbyclub aan de slag. <img src="/assets/images/sven-veld.jpg">
+Sven is als geboren Amsterdammer bij het hoofdstedelijke AAC begonnen met rugbyen toen hij 9 was. Al op 21-jarige leeftijd haalde hij het diploma Rugby Oefenmeester A, kort daarop gevolgd door het behalen van Oefenmeester B. Na een verblijf in het buitenland, vestigde Sven zich in 2001 in Noordwijk en ging als jeugdcoach bij de Haagsche Rugbyclub aan de slag. <img src="/assets/images/sven-veld.jpg" width="200">
 
 Daarnaast was hij actief als coach voor diverse nationale jeugdselecties, waarmee hij meerdere eindtoernooien meemaakte. Zo begeleidde hij als hoofdcoach bijvoorbeeld Nederland onder 18 op het Europees Kampioenschap in Frankrijk.
 
@@ -20,7 +21,7 @@ Verwacht van Sven Loos echter geen ingewikkelde tactische uitleg voor de jongste
 
 Naast Sven Loos is er nog een topper uit de rugbywereld die in Noordwijk woonachtig is: (voormalig) prof-rugbyer Desmond Tuaivii. Hij speelde als professional in Australië, Engeland en Italië. Met de huidige bondscoach van het Engelse rugbyteam, Eddy Jones, won Des in 2001 de Super 12, het hoogste haalbare in club-rugby. Ook op landenniveau haalde hij de top; hij speelde op het WK rugby 2003 voor Samoa. 
 Nadat Des zich in Noordwijk verstigde, was hij als speler/coach actief voor diverse Nederlandse clubs, waaronder Castricum, Hilversum, AAC en DIOK. 
-<img src="/assets/images/des_player_card.jpg">
+<img src="/assets/images/des_player_card.jpg" width="150">
 
 ### Hoogtepunten carrière
 
