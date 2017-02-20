@@ -55,7 +55,7 @@ nl: &DEFAULT_NL
   page                       : "Pagina"
   pagination_previous        : "Vorige"
   pagination_next            : "Volgende"
-  breadcrumb_home_label      : "Inicio"
+  breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 : "Toggle Menu"
   toc_label                  : "Inhoud"
