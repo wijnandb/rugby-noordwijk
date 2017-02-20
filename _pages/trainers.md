@@ -21,18 +21,28 @@ Verwacht van Sven Loos echter geen ingewikkelde tactische uitleg voor de jongste
 
 Naast Sven Loos is er nog een topper uit de rugbywereld die in Noordwijk woonachtig is: (voormalig) prof-rugbyer Desmond Tuaivii. Hij speelde als professional in Australië, Engeland en Italië. Met de huidige bondscoach van het Engelse rugbyteam, Eddy Jones, won Des in 2001 de Super 12, het hoogste haalbare in club-rugby. Ook op landenniveau haalde hij de top; hij speelde op het WK rugby 2003 voor Samoa. 
 Nadat Des zich in Noordwijk verstigde, was hij als speler/coach actief voor diverse Nederlandse clubs, waaronder Castricum, Hilversum, AAC en DIOK. 
-<img src="/assets/images/des_player_card.jpg" width="150">
+<img src="/assets/images/des_playercard.jpg" width="150">
 
 ### Hoogtepunten carrière
 
 1987 - 1991 Wellington U17 & U19 & U20 Rugby League
+
 1991        New Zealand University team World Cup Italia
+
 1991 - 1994 New Zealand 7's
+
 1997 - 2001 Brumbies ACT Australia
+
 2001        Super 12 win
+
 2001        Brumbies ACT Player of the year
+
 2002 - 2003 Waratahs NSW Australia
+
 2003        World Cup Rugby Samoa
+
 2003 - 2005 Rotherham UK
+
 2005 - 2007 Patenope Napoli
+
 
