@@ -18,14 +18,14 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : facebook # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
+    appid                : 201607793649010
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
@@ -57,8 +57,8 @@ yandex_site_verification :
 twitter:
   username               : "rugbynoordwijk"
 facebook:
-  username               : wijnandbaretta
-  app_id                 : 201607793649010
+  username               : "rugbynoordwijk"
+  app_id                 : 
   publisher              : 
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
