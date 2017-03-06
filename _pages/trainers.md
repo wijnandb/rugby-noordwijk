@@ -4,6 +4,7 @@ author_profile: false
 header:
   image: "/assets/images/chasing.jpg"
 permalink: /trainers/
+share: true
 ---
 
 # Trainers
