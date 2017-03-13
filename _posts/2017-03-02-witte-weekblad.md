@@ -1,6 +1,6 @@
 ---
 title: Kick-off in Witte Weekblad
-date: 2017-02-20 12:50:01
+date: 2017-03-01 12:50:01
 ---
 
 Kick-off voor rugbyclub 
