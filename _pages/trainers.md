@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: "/assets/images/chasing.jpg"
+  image: "/assets/images/headers/chasing.jpg"
 permalink: /trainers/
 share: true
 ---

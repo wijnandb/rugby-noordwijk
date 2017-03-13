@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: "/assets/images/catch.jpg"
+  image: "/assets/images/headers/catch.jpg"
 permalink: /aanmelden/
 ---
 
