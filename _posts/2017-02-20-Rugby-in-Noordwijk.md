@@ -10,4 +10,4 @@ Vanaf 12 maart 2017 trainen we elke week op vrijdag om 17:00 uur en op zondag om
 
 Interesse? <a href="/aanmelden/">Meld je aan</a> en doe vier weken gratis mee!
 
-<img src="/assets/images/posterv1.jpg">
+<img src="/assets/images/promotie/posterv1.jpg">
