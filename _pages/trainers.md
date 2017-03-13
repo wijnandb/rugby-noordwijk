@@ -20,9 +20,9 @@ Daarnaast was hij actief als coach voor diverse nationale jeugdselecties, waarme
 
 Verwacht van Sven Loos echter geen ingewikkelde tactische uitleg voor de jongste jeugd. "Ik hou het graag simpel. Uiteindelijk gaat het er om dat de kinderen plezier hebben, het spelletje doorkrijgen en zelf beslissingen leren nemen." Ook aan schreeuwen langs de kant heeft de ervaren coach een broertje dood. "Los van het feit dat de meeste aanwijzigingen niet zinnig zijn of niet aankomen, is het ook niet bevorderlijk voor het presteren van de kinderen, laat staan voor het spelplezier."
 
-## Desmond Tuaivii
+## Desmond Tuiavii
 
-Naast Sven Loos is er nog een topper uit de rugbywereld die in Noordwijk woonachtig is: (voormalig) prof-rugbyer Desmond Tuaivii. Hij speelde als professional in Australië, Engeland en Italië. Met de huidige bondscoach van het Engelse rugbyteam, Eddy Jones, won Des in 2001 de Super 12, het hoogste haalbare in club-rugby. Ook op landenniveau haalde hij de top; hij speelde op het WK rugby 2003 voor Samoa. 
+Naast Sven Loos is er nog een topper uit de rugbywereld die in Noordwijk woonachtig is: (voormalig) prof-rugbyer Desmond Tuiavii. Hij speelde als professional in Australië, Engeland en Italië. Met de huidige bondscoach van het Engelse rugbyteam, Eddy Jones, won Des in 2001 de Super 12, het hoogste haalbare in club-rugby. Ook op landenniveau haalde hij de top; hij speelde op het WK rugby 2003 voor Samoa. 
 Nadat Des zich in Noordwijk verstigde, was hij als speler/coach actief voor diverse Nederlandse clubs, waaronder Castricum, Hilversum, AAC en DIOK. 
 <img src="/assets/images/des_playercard.jpg" width="150">
 
